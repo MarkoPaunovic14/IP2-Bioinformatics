@@ -16,7 +16,7 @@ This project focuses on the analysis of surface proteins (such as spike proteins
 We use P-adic distances, a unique mathematical approach, to analyze and compare genetic sequences.
 ## Dataset
 
-All genetic sequences were retrieved from the *National Center for Biotechnology Information (NCBI)* database. The dataset includes the RNA sequences that code for proteins in the coronaviruses listed above.
+All genetic sequences were retrieved from the [National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/) database. The dataset includes the RNA sequences that code for proteins in the coronaviruses listed above.
 
 ## Preprocessing
 
